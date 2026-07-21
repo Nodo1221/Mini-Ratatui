@@ -12,3 +12,4 @@ cargo run
 ```
 
 ## Output
+<img width="1020" height="672" alt="Screenshot 2026-07-21 at 18 38 16" src="https://github.com/user-attachments/assets/ae34877b-73e1-4033-8717-6b096249db48" />
