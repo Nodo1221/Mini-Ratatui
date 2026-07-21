@@ -37,7 +37,7 @@ fn main() -> std::io::Result<()> {
         let para_widget =
             Paragraph::new(format!("This is a paragraph widget\n\nWidth: {}%", left_pct))
                 .block(Block::bordered()
-                    .title("Title")
+                    .title("Paragraph widget")
                     .border_type(BorderType::Double),
                 )
                 .alignment(Alignment::Center);
